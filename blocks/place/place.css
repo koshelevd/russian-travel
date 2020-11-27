@@ -1,0 +1,27 @@
+.place {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  max-width: 984px;
+  padding-bottom: 49px;
+}
+
+@media screen and (min-width: 768px) {
+  .place {
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 24px 73px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .place {
+    padding: 0 48px 80px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .place {
+    width: 984px;  
+  }
+}

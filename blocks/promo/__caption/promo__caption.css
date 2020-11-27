@@ -1,0 +1,21 @@
+.promo__caption {
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 1.4;
+  letter-spacing: .15em;
+  text-transform: uppercase;
+  align-self: start;
+  margin: 10px 0 0 16px;
+}
+
+@media screen and (min-width: 768px) {
+  .promo__caption {
+    margin-left: 24px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .promo__caption {
+    margin-left: 0;
+  }
+}

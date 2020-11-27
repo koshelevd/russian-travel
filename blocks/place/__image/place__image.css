@@ -1,0 +1,27 @@
+.place__image {
+  max-width: 100%;
+  display: block;
+  object-fit: cover;
+  align-self: flex-start;
+}
+
+@media screen and (min-width: 768px) {
+  .place__image {
+    width: 47.22%;
+    display: block;
+    object-fit: cover;
+    align-self: flex-start;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .place__image {
+    width: 47.41%;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .place__image {
+    max-width: 460px;
+  }
+}
