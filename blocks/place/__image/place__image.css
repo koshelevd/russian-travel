@@ -8,9 +8,6 @@
 @media screen and (min-width: 768px) {
   .place__image {
     width: 47.22%;
-    display: block;
-    object-fit: cover;
-    align-self: flex-start;
   }
 }
 
