@@ -1,10 +1,13 @@
-# Спринт 3. Проектная работа "Путешествие по России"
-## Третья проектная работа на курсе Яндекс.Практикума "Веб-разработчик"
+# Project "Travel across Russia"
 
-Одностраничный лендинг об интересных идеях для отпуска и путешествий по России.
+A one-page landing page about interesting vacation and travel ideas in 
+Russia. Third project work on the 
+learning course Yandex.Praktikum "Web developer" 
 
-Работа выполнена с использованием *HTML5* и *CSS3*.
-Вёрстка адаптивная, респонзивная, использованы технологии *flexbox*, *grid layout*,.
-Применена технология БЭМ. Файлы организованы в соответствии с Nested BEM.
+The work was done using **HTML5**, **CSS3**, **Javascript**.
+The layout is adaptive, responsive, **flexbox** and **grid layout** 
+technologies are used.
+**BEM** technology is applied. The files are organized according to **Nested 
+BEM**. 
 
-Работы доступна для просмотра по ссылке: https://koshelevd.github.io/russian-travel/
+https://koshelevd.github.io/russian-travel/
